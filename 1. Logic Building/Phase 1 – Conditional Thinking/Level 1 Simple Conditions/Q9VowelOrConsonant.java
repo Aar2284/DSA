@@ -1,4 +1,4 @@
-// Take a character and check if it’s a vowel or consonant
+// Take a character and check if it’s a vowel or consonant.
 
 import java.util.Scanner;
 
