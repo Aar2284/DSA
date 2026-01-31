@@ -1,4 +1,4 @@
-
+// Take three numbers and print the largest.
 
 import java.util.Scanner;
 
