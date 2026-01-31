@@ -1,5 +1,7 @@
 # Phase 1 – Conditional Thinking 
 
+![Easiest](https://img.shields.io/badge/EASIEST-076E03?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-0B1C2D?style=for-the-badge&logo=openjdk&labelColor=ED8B00&logoColor=000000)
 
 
 ## 📌 Overview
@@ -45,16 +47,16 @@ This folder contains Java solutions for **Phase 1 of DSA fundamentals**, focused
 ```
 Phase-1-Conditional-Thinking/
 │
-├── PositiveNegativeZero.java
-├── EvenOdd.java
-├── DivisibleBy5.java
-├── DivisibleBy3And5.java
-├── LeapYear.java
-├── LargerOfTwo.java
-├── LargestOfThree.java
-├── TemperatureCheck.java
-├── VowelOrConsonant.java
-├── CharacterTypeCheck.java
+├── Q1PositiveNegativeZero.java
+├── Q2EvenOdd.java
+├── Q3DivisibleBy5.java
+├── Q4DivisibleBy3And5.java
+├── Q5LeapYear.java
+├── Q6LargerOfTwo.java
+├── Q7LargestOfThree.java
+├── Q8TemperatureCheck.java
+├── Q9VowelOrConsonant.java
+├── Q10CharacterTypeCheck.java
 └── README.md
 ```
 ---
