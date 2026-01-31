@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class PositiveNegativeZero 
+public class Q1PositiveNegativeZero 
 {
     public static void main(String[] args) 
     

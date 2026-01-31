@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class Divisibleby5  
+public class Q3DivisibleBy5  
 {
     public static void main(String[] args)
     {
