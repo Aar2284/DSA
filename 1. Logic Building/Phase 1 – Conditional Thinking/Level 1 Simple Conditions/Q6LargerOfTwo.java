@@ -1,4 +1,4 @@
-
+// Take two numbers and print the larger one. 
 
 import java.util.Scanner;
 
