@@ -1,4 +1,4 @@
-//  Take three sides and check if they form a valid triangle. using nested loops
+//  Take three sides and check if they form a valid triangle
 
 import java.util.Scanner;
 
