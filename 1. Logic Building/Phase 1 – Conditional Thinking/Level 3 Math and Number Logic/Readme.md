@@ -64,9 +64,6 @@ Level-3-Math-Logic/
 ```
 ---
 
-
----
-
 ## 🎯 Learning Outcome
 After completing this level, you will be able to:
 - Manipulate numbers using mathematical logic
