@@ -1,6 +1,6 @@
 # Phase 1 – Conditional Thinking 
 
-![Easiest](https://img.shields.io/badge/EASIEST-076E03?style=for-the-badge)
+![Phase1-Level1](https://img.shields.io/badge/Phase1-Level1-076E03?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-0B1C2D?style=for-the-badge&logo=openjdk&labelColor=ED8B00&logoColor=000000)
 
 

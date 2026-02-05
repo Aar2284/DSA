@@ -1,6 +1,6 @@
 # Level 3 – Math and Number Logic
 
-![Normal](https://img.shields.io/badge/NORMAL-DEC41B?style=for-the-badge)
+![Phase1-Level3](https://img.shields.io/badge/Phase1-Level3-DEC41B?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-0B1C2D?style=for-the-badge&logo=openjdk&labelColor=ED8B00&logoColor=000000)
 
 ## 📌 Overview

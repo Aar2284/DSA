@@ -1,6 +1,6 @@
 # Level 2 – Nested If & Multiple Conditions
 
-![Easy](https://img.shields.io/badge/EASY-D5fA05?style=for-the-badge)
+![Phase1-Level2](https://img.shields.io/badge/Phase1-Level2-D5fA05?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-0B1C2D?style=for-the-badge&logo=openjdk&labelColor=ED8B00&logoColor=000000)
 
 ## 📌 Overview
