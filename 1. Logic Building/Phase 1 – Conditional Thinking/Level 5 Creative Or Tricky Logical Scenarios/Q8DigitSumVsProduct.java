@@ -22,12 +22,17 @@ public class Q8DigitSumVsProduct
 
                 if (sum > product)
                 {
-                    System.out.println(sum+ "(Sum) is greater than " +product+ "(Porduct)");
+                    System.out.println(sum+ "(Sum) is greater than " +product+ "(Product)");
+                }
+
+                else if (product > sum)
+                {
+                    System.out.println(product+ "(Product) is greater than " +sum+ "(Sum)");
                 }
 
                 else
                 {
-                    System.out.println(product+ "(Product) is greater than " +sum+ "(Sum)");
+                    System.out.println("The sum and product of the digits are equal.");
                 }
             }
         }
